@@ -1,35 +1,4 @@
-# Laravel 8 Knowledge Base FAQ with Adminpanel
-
-Transformed [free Bootstrap theme](https://github.com/sunnyg1210/bootstrapKnowledgeBaseTheme) into fully manageable Laravel 8 project with adminpanel generated with [QuickAdminPanel](https://quickadminpanel.com), 
-to manage all the articles, categories.
-
-Also added SEO important stuff like Articles Slugs in URLs.
-
-Demo video: [Youtube](https://www.youtube.com/watch?v=S2RRJqqvHEI)
-
-- - - - -
-
-## Front-side Screenshots 
-
-![Laravel Knowledge Base FAQ Home](https://laraveldaily.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-16-at-6.25.56-PM.png)
-
-- - - - -
-
-![Laravel Knowledge Base FAQ Category](https://laraveldaily.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-16-at-6.26.09-PM.png)
-
-- - - - -
-
-## Adminpanel Screenshots
-
-![Laravel Knowledge Base FAQ adminpanel articles](https://laraveldaily.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-16-at-6.26.58-PM.png)
-
-![Laravel Knowledge Base FAQ adminpanel new article](https://laraveldaily.com/wp-content/uploads/2019/10/Screen-Shot-2019-10-16-at-6.27.12-PM.png)
-
-- Front-end part is taken from [Bootstrap Knowledge Base Theme](https://github.com/sunnyg1210/bootstrapKnowledgeBaseTheme) and transformed into Laravel Blade and assets.
-- Admin part is fully generated with [QuickAdminPanel](https://2019.quickadminpanel.com).
-
----
-
+ 
 ## How to use
 
 - Clone the repository with __git clone__
@@ -45,11 +14,4 @@ Demo video: [Youtube](https://www.youtube.com/watch?v=S2RRJqqvHEI)
 Basically, feel free to use and re-use any way you want.
 
 ---
-
-## More from our LaravelDaily Team
-
-- Check out our adminpanel generator [QuickAdminPanel](https://quickadminpanel.com)
-- Read our [Blog with Laravel Tutorials](https://laraveldaily.com)
-- FREE E-book: [50 Laravel Quick Tips (and counting)](https://laraveldaily.com/free-e-book-40-laravel-quick-tips-and-counting/)
-- Subscribe to our [YouTube channel Laravel Business](https://www.youtube.com/channel/UCTuplgOBi6tJIlesIboymGA)
-- Enroll in our [Laravel Online Courses](https://laraveldaily.teachable.com/)
+ 
