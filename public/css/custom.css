@@ -1,3 +1,17 @@
+@font-face {
+	font-family: "Nav Font";
+	 
+	  src: url("../fonts/ufonts.com_copperplate-gothic-regular.ttf") format("truetype");  
+}
+
+@font-face {
+	font-family: "solaimanLipi";
+	src: url("../fonts/SOLAIMANLIPI.TTF") format("truetype");
+	/* src: url("../fonts/ufonts.com_copperplate-gothic-regular.ttf") format("truetype"); */
+}
+.card{
+    font-family: solaimanLipi;
+}
 .ck-editor__editable,
 textarea {
     min-height: 150px;

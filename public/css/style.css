@@ -7,7 +7,17 @@
 
 @font-face {
 	font-family: "Nav Font";
-	src: url("../fonts/ufonts.com_copperplate-gothic-regular.ttf") format("truetype");
+	 
+	  src: url("../fonts/ufonts.com_copperplate-gothic-regular.ttf") format("truetype");  
+}
+
+@font-face {
+	font-family: "solaimanLipi";
+	src: url("../fonts/SOLAIMANLIPI.TTF") format("truetype");
+	/* src: url("../fonts/ufonts.com_copperplate-gothic-regular.ttf") format("truetype"); */
+}
+body, h1, span{
+	font-family: "solaimanLipi";
 }
 a {
 	text-decoration: none;
@@ -423,12 +433,12 @@ input.search {
 h1.white {
 	color: white;
 	font-size: 40px;
-	font-family: sans-serif;
+	font-family: "solaimanLipi";
 }
 span.nested {
 	color: white;
 	font-size: 20px;
-	font-family: sans-serif;
+	font-family: "solaimanLipi";
 }
 
 .grey-color {
@@ -469,7 +479,7 @@ span.nested {
 	font-size: 25px;
 	margin-bottom: 20px;
 	text-transform: uppercase;
-	font-family: sans-serif;
+	font-family: "solaimanLipi";
 }
 .fb-heading i {
 	margin-right: 5px;
@@ -497,7 +507,7 @@ span.nested {
 	font-size: 18px;
 	margin-bottom: 20px;
 	text-transform: uppercase;
-	font-family: sans-serif;
+	font-family: "solaimanLipi";
 	font-weight: lighter;
 }
 
