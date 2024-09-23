@@ -17,7 +17,7 @@
 	/* src: url("../fonts/ufonts.com_copperplate-gothic-regular.ttf") format("truetype"); */
 }
 body, h1, span{
-	font-family: "SolaimanLipi";
+	font-family: "SolaimanLipi" !important;
 }
 a {
 	text-decoration: none;
